@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="556.397" height="559.35" viewBox="0 0 556.397 559.35">
+  <defs>
+    <filter id="Polygon_3" x="0" y="0" width="556.397" height="559.35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.922"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="triangle" transform="translate(-1397.929 187.849)">
+    <g transform="matrix(1, 0, 0, 1, 1397.93, -187.85)" filter="url(#Polygon_3)">
+      <path id="Polygon_3-2" data-name="Polygon 3" d="M180.529,30.723a18,18,0,0,1,31.942,0L379.327,351.7A18,18,0,0,1,363.356,378H29.644a18,18,0,0,1-15.971-26.3Z" transform="matrix(0.6, -0.8, 0.8, 0.6, 9, 319.86)" fill="#070457"/>
+    </g>
+    <path id="Polygon_4" data-name="Polygon 4" d="M118.3,33.491a18,18,0,0,1,32.406,0l105.8,218.67A18,18,0,0,1,240.3,278H28.7a18,18,0,0,1-16.2-25.839Z" transform="matrix(0.616, -0.788, 0.788, 0.616, 1503.168, 133.631)" fill="#fff"/>
+  </g>
+</svg>
